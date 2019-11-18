@@ -1,0 +1,90 @@
+
+
+/* --------------div1---------------- */
+
+/* -------------------NAV BAR ------------------- */
+.navbarSP{
+    padding: 0px auto;
+    margin:0px 10%;
+    font-size: 25px;
+    text-align: center;
+    list-style-type: none;
+    overflow: hidden;
+    height: 60px; 
+    
+}
+
+.navbarSP{
+    padding: 0px 10%;
+    font-size: 25px;
+    list-style-type: none;
+    overflow: hidden;
+    height: auto;
+}
+
+
+.navitemSP{
+    color: rgb(49, 47, 47);
+    padding: 0px 4%;
+    font-size: 20px;
+    margin: 0px auto;
+     /* padding: 5px 30px;  */
+}
+
+.navitemSP:hover{
+    background-color: rgb(20, 194, 224);
+    color: white;
+}
+
+
+  /* --------------- End of Nav Bar ------------------- */
+
+
+  .userimgSP{
+      width: 80px;
+      height: 80px;
+  }
+
+  /* ---------------div2------------------ */
+  .ndiv2SP{
+      margin:0px auto;
+      border: solid 2px rgb(20, 194, 224);
+      display: inline-block !important;
+  }
+
+
+  /* ---------div3--------- */
+
+  .txtareaSP{
+    display: inline-block;
+    min-height: 160px;
+}
+  .btnSgnSP{
+    margin-right:'10px';
+    color: white;
+    font-size: 12px;
+    width:120px; 
+    height: 30px;
+    background:rgb(20, 194, 224);
+    border:solid 1px rgb(27, 129, 160);
+   }
+   
+   .btnSgnSP:hover{
+       background-color:rgb(27, 129, 160);
+       border:solid 2px rgb(27, 129, 160);
+   }
+
+
+   .skillsDelbtnSP{
+    background-color:rgb(20, 194, 224); 
+    color:white; 
+    border-radius:100px;
+    margin-left:10px;
+   }
+
+   .pimg1{
+       width: 150px ;
+       height: 150px;
+       border: solid 2px rgb(27, 129, 160);
+       border-radius : 100px; 
+   }

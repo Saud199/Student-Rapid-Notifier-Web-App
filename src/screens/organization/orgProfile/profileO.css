@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(20, 194,224)
+}
+           
+.OPimg{
+    width: 80px;
+    height: 80px
+}
+
+.btnSgnOP{
+    margin-right:'10px';
+    color: white;
+    display: inline-block;
+    width:80px; 
+    background:rgb(20, 194, 224);
+    border:solid 1px rgb(27, 129, 160);
+   }
+
+ .div1OP{
+     min-Width:500px;
+     margin-Left:8% ;
+     text-Align:center;
+     /* border:solid 2px rgb(20, 194,224); */
+     margin-bottom: 20px;
+ }  

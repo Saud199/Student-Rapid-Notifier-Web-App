@@ -1,0 +1,13 @@
+.btn{
+    width: 90px;
+    color: white;
+    background-color:rgb(20, 194, 224);
+    border:solid 1px rgb(27, 129, 160);
+    margin: 5px;
+    font-size: 11px;
+}
+
+.btn:hover{
+    background-color:rgb(27, 129, 160);
+    border:solid 1px rgb(27, 129, 160);
+}

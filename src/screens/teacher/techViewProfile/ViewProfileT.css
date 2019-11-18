@@ -1,0 +1,24 @@
+.div1TVP{
+    margin: 5px auto;
+    min-height:80vh;
+}
+
+.div2TVP{
+  margin: 5px;  
+  border-right: solid 3px rgb(47, 174, 212);
+  /* border-radius:5px;  */
+  min-height:500px;
+}
+
+.div3TVP{
+    margin: 5px;
+    border-radius:5px;
+    /* border: solid 2px rgb(47, 174, 212); */
+    min-height:500px;  
+}
+
+.img1TVP{
+    width: 100px;
+    height: 130px;
+    border: solid 2px rgb(47, 174, 212)
+}

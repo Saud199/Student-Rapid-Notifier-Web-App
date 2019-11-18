@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(20, 194,224)
+}
+           
+.AdmPimg{
+    width: 80px;
+    height: 80px
+}
+
+.btnSgnAdmP{
+    margin-right:'10px';
+    color: white;
+    display: inline-block;
+    width:80px; 
+    background:rgb(20, 194, 224);
+    border:solid 1px rgb(27, 129, 160);
+   }
+
+ .div1AdmP{
+     min-Width:500px;
+     margin-Left:8% ;
+     text-Align:center;
+     /* border:solid 2px rgb(20, 194,224); */
+     margin-bottom: 20px;
+ }  
+
+ 
+.navbarAP{
+    padding: 0px 10%;
+    font-size: 25px;
+    list-style-type: none;
+    overflow: hidden;
+    height: auto;
+}
+
+
+
+.navitemAP{
+    color: rgb(49, 47, 47);
+    padding: 0px 4%;
+    font-size: 20px;
+    margin: 0px auto;
+     /* padding: 5px 30px;  */
+}
+
+.navitemAP:hover{
+    background-color: rgb(20, 194, 224);
+    color: white;
+}

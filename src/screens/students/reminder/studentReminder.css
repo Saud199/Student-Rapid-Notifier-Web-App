@@ -1,0 +1,77 @@
+
+ .sidelogoR{
+    /* border: solid 2px #948c8c; */
+    /* border-radius: 100%; */
+    height: 150px;
+    padding: 5px;
+    width: 220px;
+    /* background: white; */
+     margin-top: 5px; 
+   /* margin-bottom:10px  */
+}
+.navbarR{
+    padding: 0px auto;
+    margin:0px 10%;
+    font-size: 25px;
+    text-align: center;
+    list-style-type: none;
+    overflow: hidden;
+    height: 60px;
+    
+}
+
+@media only screen and (max-width: 950px) {
+    .navbarR{
+       min-height: 150px 
+    }
+  }
+
+.navitemR{
+    color: rgb(49, 47, 47);
+     padding: 5px 30px; 
+}
+
+.navitemR:hover{
+    background-color: rgb(20, 194, 224);
+    margin: 0px;
+    
+    height: 60px;
+    color: white;
+}
+
+
+  /* --------------- End of Nav Bar ------------------- */
+
+
+  .mimageR{
+    width:70px;
+    height:70px;
+  }
+
+  .dyanmicDivR{
+      margin: 30px 10%;
+      border: solid 1px rgb(20, 194, 224);
+      border-radius: 10px;
+      padding: 20px;
+  }
+
+  .orgnmeR{
+      /* margin-left: 14%; */
+      margin-top: 5%;
+    }
+
+
+  .ddiv2R{
+      display: inline-block;
+      margin: auto 10px;
+      text-align: center;
+  }
+
+
+  .ddiv3R{
+    display: inline-block;
+    margin: 10px auto;
+    border: none;
+    min-width: 450px;
+}
+

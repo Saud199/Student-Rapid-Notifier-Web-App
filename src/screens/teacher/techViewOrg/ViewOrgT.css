@@ -1,0 +1,42 @@
+.sidelogoVOT{
+  height: 150px;
+  padding: 5px;
+  width: 220px;
+   margin-top: 5px; 
+}
+
+
+.viewDivVOT{
+  background:white;
+  width: 220px;
+  height:280px;
+  overflow: hidden;
+  margin: 10px;
+  padding: 15px;
+  border-radius:10px; 
+  display: inline-block;
+}
+
+.dataDivVOT{
+  background:white;
+  margin: 10px;
+  padding: 15px;
+  border-radius:10px; 
+}
+
+.VOTBtn{ 
+  height: 25px;  
+  background-color:rgb(20, 194, 224);
+  border:solid 1px rgb(27, 129, 160);
+  color: white;
+  min-width: 60px;
+  border-radius: 5px;
+  font-size: 10px;
+  float: right;
+}
+
+.VOTBtn:hover{
+   background-color:rgb(27, 129, 160);
+   border:solid 2px rgb(27, 129, 160);
+}
+

@@ -1,0 +1,19 @@
+.div1SVP{
+    margin: 5px auto;
+}
+
+.div2SVP{
+  margin: 5px;  
+  border-right: solid 3px rgb(47, 174, 212); 
+}
+
+.div3SVP{
+    margin: 5px;
+    border-radius:5px;
+}
+
+.img1SVP{
+    width: 100px;
+    height: 120px;
+    border: solid 1px rgb(47, 174, 212);
+}

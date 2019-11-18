@@ -1,0 +1,76 @@
+.admDiv1{
+width:15%;
+min-width: 100px;
+margin: 10px auto;
+height: 100%;
+border:solid 1px rgb(27, 129, 160);
+border-radius: 1px;
+background: white;
+}
+
+.admDiv2{
+    width: 75%;
+    /* border: solid 1px gray; */
+    background-color:white; 
+    margin: 10px auto;
+    height: 100%;
+    border:solid 1px rgb(27, 129, 160);
+    border-radius: 1px;
+    padding: 5px;
+}
+
+.adm_min_div1{
+ margin:10px auto;
+ width: 98%;
+ height: 36vh;
+ padding: 1%;
+    text-align: center;
+}
+
+.adm_min_div2{
+    margin:10px auto;
+    width: 98%;
+    height: 36vh;
+    padding: 1%;
+    text-align: center;
+}
+
+  .adm_formDiv1OAF{
+    margin: 10px;
+    height: 30vh;
+    border-top: solid 4px rgb(27, 180, 207);
+    border-left: solid 1px rgb(27, 180, 207);
+    border-right: solid 1px rgb(27, 180, 207);
+    border-bottom: solid 4px rgb(27, 180, 207);
+    text-align: center;
+  }
+
+.sidelogoAdmAF{
+    height: 100%;
+    padding: 5px;
+    width: 25%;
+    margin-top: 5px; 
+}
+
+.tAibtn{
+    height: 35px;
+    width: 50%;
+    font-size: 18px;
+    margin: 2px 7px;
+    color: black;
+}
+
+.tAibtn:hover{
+    text-decoration: none;
+    color: black;
+}
+
+  @media only screen and (min-width:950px){
+    .textAicon { display: block !important; }
+    .Aicon { display: none; }
+  }
+
+  @media only screen and (min-width:1200px){
+   .c2{display: block !important;}
+  }
+

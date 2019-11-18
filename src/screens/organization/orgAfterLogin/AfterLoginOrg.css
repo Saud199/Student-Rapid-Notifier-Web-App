@@ -1,0 +1,143 @@
+
+/* --------------- SIDE BAR ------------------ */
+
+.sidenavOAF {
+background: linear-gradient(to bottom,  rgb(20, 194, 224) 0%,rgb(20, 194, 224) 25%, white 25%, white 100%);
+margin-top: 5%;
+height: 350px;
+margin-left:2%; 
+min-width: 220px;
+width: 15%;
+border-radius: 5px;
+position: fixed;
+z-index: 1;
+}
+
+.OAFp{
+  margin-top: 15%;
+  text-align: center;
+}
+
+.OAFuimg{
+  border: solid 1px rgb(20, 194, 224);
+  border-radius: 200px;
+   width: 100px;
+   height:100px;
+   padding: 5px;
+   background-color: white;
+}
+
+/* <----------------MAIN DIV---------------------> */
+
+.mainDivOAF{
+  /* border: solid 2px black; */
+  margin-left: 17%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+.btndivOAF{
+  margin: 10px;
+  text-align: center;
+}
+
+.smbtn1OAF{
+  min-width: 200px;
+  height: 90px;
+  margin: 15px;
+  font-size:12px; 
+  display: inline-block;
+  background: linear-gradient(to right, rgb(27, 180, 207)  0%,rgb(27, 180, 207) 35%, rgb(20, 194,224) 35%, rgb(20, 194,224) 100%);
+}
+
+.smbtn2OAF{
+  min-width: 200px;
+  height: 90px;
+  margin: 15px;
+  font-size:12px; 
+  display: inline-block;
+  background: linear-gradient(to right, rgb(233, 178, 28)  0%,rgb(233, 178, 28) 35%, rgb(248, 203, 80) 35%, rgb(248, 203, 80) 100%);
+}
+
+
+.smbtn3OAF{
+  min-width: 200px;
+  height: 90px;
+  margin: 15px;
+  font-size:12px; 
+  display: inline-block;
+  background: linear-gradient(to right, rgb(16, 196, 76)  0%,rgb(16, 196, 76) 35%, rgb(36, 228, 100) 35%, rgb(36, 228, 100) 100%);
+}
+
+.smbtn4OAF{
+  min-width: 200px;
+  height: 90px;
+  margin: 15px;
+  font-size:12px; 
+  display: inline-block;
+  background: linear-gradient(to right, rgb(216, 65, 65)  0%,rgb(216, 65, 65) 35%, rgb(247, 104, 104) 35%, rgb(247, 104, 104) 100%);
+}
+
+.smbtn_img_OAF{
+  width: 50px;
+  margin-left: 30px;
+  margin-top: 25px;
+  height: 50px;
+}
+
+.formDivOAF{
+  margin: 10px auto;
+  text-align: center;
+  padding: 1%; 
+  width: 90%; 
+}
+
+.formDiv1OAF{
+  margin: 10px;
+  height: 300px;
+  border-top: solid 4px rgb(27, 180, 207);
+  border-left: solid 1px rgb(27, 180, 207);
+  border-right: solid 1px rgb(27, 180, 207);
+  border-bottom: solid 4px rgb(27, 180, 207);
+}
+
+.formDiv2OAF{
+  margin: 10px;
+  height: 300px;
+  border-top: solid 4px rgb(27, 180, 207);
+  border-left: solid 1px rgb(27, 180, 207);
+  border-right: solid 1px rgb(27, 180, 207);
+  border-bottom: solid 4px rgb(27, 180, 207);
+}
+
+.h4smdivORG{ 
+  margin-top:2px;
+  height:50px;
+  padding-top:10px; 
+  padding-bottom:10px; 
+  background-color:rgb(197, 197, 197);
+  color:white;
+}
+
+
+/* ------------------Media Screen Changes effect --------------------- */
+@media screen and (max-width: 1200px) {
+  .sidenavOAF {
+    visibility: hidden;
+  }
+
+  .mainDivOAF{
+    width: 95%;
+    height: 95vh;
+    /* border: solid 2px black; */
+    margin:30px;
+  }
+
+}
+
+
+
+
+
+

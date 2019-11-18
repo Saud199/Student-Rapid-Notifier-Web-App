@@ -1,0 +1,100 @@
+.sidelogoFV{
+    height: 150px;
+    padding: 5px;
+    width: 220px;
+     margin-top: 5px; 
+}
+
+.navbarFV{
+    padding: 0px 10%;
+    font-size: 25px;
+    list-style-type: none;
+    overflow: hidden;
+    height: 60px;
+}
+
+@media only screen and (max-width: 1250px) {
+    .navbarFV{
+       min-height: 150px 
+    }
+  }
+
+.navitemFV{
+    color: rgb(49, 47, 47);
+    padding: 0px 4%;
+     /* padding: 5px 30px;  */
+}
+
+.navitemFV:hover{
+    background-color: rgb(20, 194, 224);
+    margin: 0px;
+    height: 60px;
+    color: white;
+}
+
+
+  /* --------------- End of Nav Bar ------------------- */
+
+.newsDiv1FV{    
+margin-right: 5%;
+
+}
+
+.mimageFV{
+    width:70px;
+    height:70px;
+  }
+
+  .dyanmicDivFV{
+      margin: 30px 10%;
+      border: solid 1px rgb(20, 194, 224);
+      border-radius: 10px;
+      padding: 20px;
+  }
+
+  .orgnmeFV{
+      /* margin-left: 14%; */
+      margin-top: 5%;
+    }
+
+
+  .ddiv2FV{
+      display: inline-block;
+      margin: 10px auto;
+      padding-right:20px; 
+      text-align: center;
+  }
+
+  .ddiv3FV{
+    border-right: solid 3px rgb(20, 194, 224);
+    border-left: solid 3px rgb(20, 194, 224);  
+    display: inline-block;
+    margin: 10px;
+}
+
+  /* @media only screen and (max-width: 1330px) {
+    .ddiv3FV{
+        border:solid 3px whitesmoke;
+        display: block !important;
+        min-width:450px !important;
+    }
+
+    .ddiv2FV{
+        min-width:450px !important;
+    }
+
+    .dyanmicDivFV{
+        text-align: center !important
+    }
+
+  } */
+
+  
+
+ .desDivFV{ 
+     height: 120px !important;
+     font-size: 14px;
+     overflow-y:scroll !important;
+     border-radius: 10px;
+     padding: 10px;
+ }

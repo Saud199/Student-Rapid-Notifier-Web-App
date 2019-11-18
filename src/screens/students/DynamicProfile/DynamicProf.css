@@ -1,0 +1,27 @@
+.div1SDP{
+    margin: 5px auto;
+    min-height:80vh;
+    width: 50%;
+    border: solid 1px rgb(47, 174, 212);
+    padding-left:2%; 
+}
+
+.div2SDP{
+  margin: 5px;  
+  border-radius:5px; 
+  min-height:500px;
+}
+
+.div3SDP{
+    margin: 5px;
+    border-radius:5px;
+    border: solid 1px rgb(47, 174, 212);
+    min-height:500px;  
+}
+
+.img1SDP{
+    width: 140px;
+    height: 180px;
+    border: solid 1px rgb(47, 174, 212);
+    padding: 5px
+}
